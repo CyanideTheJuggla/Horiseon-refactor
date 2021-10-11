@@ -1,15 +1,13 @@
 # Horiseon-refactor
 Bootcamp project, refactor of Horiseon page <br>
 <br>
-<br>
 <h3>User Story</h3>
-<br><br>
 AS A marketing agency<br>
 I WANT a codebase that follows accessibility standards<br>
 SO THAT our own site is optimized for search engines<br>
+<br>
 
 <h3>Acceptance Criteria</h3>
-<br><br>
 GIVEN a webpage meets accessibility standards<br>
 WHEN I view the source code<br>
 THEN I find semantic HTML elements<br>
@@ -22,8 +20,8 @@ THEN they fall in sequential order<br>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 <br>
-<br>
-<br>
 https://cyanidethejuggla.github.io/Horiseon-refactor/Horiseon/
-
+<br>
+<br>
+<br>
 <img src="img/HORISEON.PNG"/>
