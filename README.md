@@ -20,7 +20,7 @@ THEN they fall in sequential order<br>
 WHEN I view the title element<br>
 THEN I find a concise, descriptive title<br>
 <br>
-https://cyanidethejuggla.github.io/Horiseon-refactor/Horiseon/
+<a href="https://cyanidethejuggla.github.io/Horiseon-refactor/Horiseon/">https://github.com/CyanideTheJuggla/Horiseon-refactor/Horiseon/</a>
 <br>
 <br>
 <br>
