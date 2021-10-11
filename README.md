@@ -1,5 +1,5 @@
 # Horiseon-refactor
-Bootcamp project, refactor of Horiseon page <br>
+Bootcamp project => refactor of Horiseon page <br>
 <br>
 <h3>User Story</h3>
 AS A marketing agency<br>
